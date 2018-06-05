@@ -1,3 +1,5 @@
-ModerationLevel = communityManaged
-
- Facilitator: madgrizzle
+{
+    "ModerationLevel": "communityManaged",
+    "Facilitator": "madgrizzle",
+    "Category": "other" 
+}
